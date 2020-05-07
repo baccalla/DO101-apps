@@ -10,10 +10,6 @@ app.get('/mars', function (req, res) {
 });
 
 
-qsdsd
-
-
 app.listen(8080, function () {
   console.log('Example app listening on port 8080!');
 });
-
